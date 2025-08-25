@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KafkaLab.Consumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
